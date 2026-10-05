@@ -100,7 +100,7 @@ A business intelligence solution designed to transform retail transaction data i
 
 ---
 
-📈 Titanic — Exploratory Data Analysis
+### 📈 Titanic — Exploratory Data Analysis
 
 An exploratory data analysis project focused on understanding the factors associated with passenger survival using the Titanic dataset.
 
