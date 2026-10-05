@@ -1,172 +1,88 @@
-# Hi, I'm Bhushan Jagtap 👋
+# 👋 Hi, I'm Bhushan Jagtap
 
 ### Information Systems • Data Analytics • Data Science & Machine Learning
 
 I am a **Computer Engineering graduate** interested in building data-driven information systems that connect **technology, analytics, and business decision-making**.
 
-My work focuses on transforming raw data into actionable insights and developing practical solutions across **data analytics, machine learning, databases, business intelligence, and applied AI**.
-
----
+My work focuses on transforming data into actionable insights and developing practical solutions using **Python, SQL, machine learning, business intelligence, and applied AI**.
 
 ## 🔍 What I Work On
 
-* **Data Analytics & Business Intelligence** — translating operational data into KPIs, dashboards, and actionable insights
-* **Data Science & Machine Learning** — developing predictive and anomaly-detection solutions using real-world datasets
-* **Information Systems** — connecting data, technology, and business requirements to build practical solutions
-* **Databases & Data Management** — SQL-based analysis, data transformation, and structured information management
-* **Applied AI** — developing deployable ML solutions rather than limiting projects to experimentation
+* **Data Analytics & Business Intelligence** — KPI analysis, dashboards, reporting, and data-driven decision-making
+* **Information Systems** — connecting technology, data, and business requirements to solve practical problems
+* **Data Science & Machine Learning** — predictive modeling and anomaly detection
+* **Databases & Data Management** — SQL, data processing, and structured information
+* **Applied AI** — developing practical and deployable machine learning solutions
 
----
-
-## 🛠️ Technical Stack
+## 🛠️ Technical Skills
 
 ### Programming & Data
 
-`Python` `SQL`  `Java`
+`Python` `SQL` `Java` `C++` `Pandas` `NumPy` `MySQL`
 
-`Pandas` `NumPy` `Matplotlib` `MySQL`
+### Analytics & Business Intelligence
 
-### Data Analytics & Business Intelligence
+`Power BI` `Tableau` `Excel` `DAX` `Data Visualization` `KPI Analysis`
 
-`Power BI` `Tableau` `Excel` `DAX`
+### Machine Learning
 
-`Data Visualization` `KPI Analysis` `MIS Reporting` `Business Analytics`
-
-### Data Science & Machine Learning
-
-`Scikit-learn` `PyTorch`
-
-`Predictive Modeling` `Classification` `Anomaly Detection`
-
-`Feature Engineering` `Model Evaluation` `Data Preprocessing`
+`Scikit-learn` `PyTorch` `Predictive Modeling` `Classification` `Anomaly Detection`
 
 ### Application & Engineering
 
-`FastAPI` `Streamlit` `Docker`
+`FastAPI` `Streamlit` `Docker` `Git` `GitHub Actions`
 
-`Git` `GitHub Actions`
-
----
-
-## 🚀 Selected Projects
+## ⭐ Featured Projects
 
 ### 💳 Financial Anomaly Detection System
 
-An end-to-end machine learning application designed to identify anomalous financial transactions.
+End-to-end machine learning system for detecting anomalous financial transactions.
 
-**Key components:**
+* Isolation Forest + PyTorch Autoencoder
+* FastAPI model-serving API
+* Streamlit monitoring dashboard
+* Docker containerization
+* Automated testing and GitHub Actions CI
 
-* Isolation Forest for unsupervised anomaly detection
-* PyTorch Autoencoder for reconstruction-based detection
-* FastAPI backend for model serving
-* Streamlit interface for interactive analysis
-* Docker for containerization
-* GitHub Actions for automated workflows
-* Model evaluation and anomaly visualization
+**Focus:** Machine Learning • Financial Analytics • Information Systems • MLOps
 
-**Focus:** Applied ML • Financial Analytics • Information Systems • Deployment
+### 🔐 SecureX-Assist
 
----
+Multimodal biometric authentication and AI voice assistant developed as academic research.
 
-### 🔐 Secure-X — Biometric Security System
+* Voice biometrics and anti-spoofing
+* Facial recognition and liveness detection
+* Multimodal score-level fusion
+* AI voice assistant
+* Reported **AUC of 0.994** and **EER of 1.25%**
 
-A machine learning-based security project focused on **biometric authentication and secure identity verification**.
+**Focus:** Applied AI • Information Security • Machine Learning • Research
 
-**Key highlights:**
+### 🚢 Titanic — Exploratory Data Analysis
 
-* Applied machine learning to biometric/security data
-* Evaluated system performance using ROC/AUC metrics
-* Achieved **AUC of 0.994**
-* Reported **EER of 1.25%**
-* Focused on improving reliability of biometric authentication
+Exploratory analysis of passenger survival using Python and statistical/data visualization techniques.
 
-**Focus:** Machine Learning • Biometrics • Information Security • Applied AI
+**Focus:** Data Analysis • Data Cleaning • Visualization • Statistical Reasoning
 
----
+## 🔬 Research & Academic Work
 
-### 📊 Retail Sales Analytics Dashboard
+### MegaShare — Secure Offline File Sharing
 
-A business intelligence solution designed to transform retail transaction data into actionable business insights.
+Research work presented at **IEEE ICCCNT 2025, IIT Indore**, focused on secure file sharing and information protection.
 
-**Focus areas:**
+### SecureX-Assist
 
-* Sales and revenue analysis
-* KPI development
-* Business performance monitoring
-* Interactive visualization
-* Data-driven decision support
-
-**Technologies:** Power BI • SQL • Excel • DAX
-
----
-
-### 📈 Titanic — Exploratory Data Analysis
-
-An exploratory data analysis project focused on understanding the factors associated with passenger survival using the Titanic dataset.
-
-Key analysis:
-
-Data cleaning and preprocessing
-Univariate and bivariate analysis
-Missing-value analysis
-Feature relationships and survival patterns
-Statistical summaries and visualization
-Insights derived from demographic and passenger attributes
-
-Technologies: Python • Pandas • NumPy • Matplotlib • Seaborn
-
----
-
-### 📤 MegaShare — Secure File Sharing System
-
-A research and development project focused on **secure file sharing and information protection**, presented at **IEEE ICCCNT 2025 at IIT Indore**.
-
-**Focus:** Information Security • Secure Systems • Applied Technology • Research
-
-
-**Focus areas:**
-
-* Data preprocessing
-* Exploratory data analysis
-* Feature engineering
-* Classification modeling
-* Model evaluation
-* Business interpretation of predictions
-
-**Technologies:** Python • Pandas • Scikit-learn • Matplotlib
-
----
-
-## 📚 Research & Academic Work
-
-### MegaShare
-
-**IEEE ICCCNT 2025 — IIT Indore**
-
-Presented research work at IEEE ICCCNT 2025 as part of my academic research experience.
-
-### Secure-X
-
-Research work focused on biometric/security applications, achieving an **AUC of 0.994** and **EER of 1.25%** in the reported evaluation.
-
----
-
+Research work on multimodal biometric authentication and AI-assisted secure desktop operations, presented at **ICASET 2026**.
 
 ## 🎯 Areas of Interest
 
-**Information Systems** • **Data Analytics** • **Business Intelligence**
-**Data Science** • **Machine Learning** • **Databases**
-**Applied AI** • **Technology & Business Strategy**
+**Information Systems • Data Analytics • Business Intelligence • Machine Learning • Databases • Applied AI**
 
-I am particularly interested in how **information systems and data-driven technologies can be designed and deployed to solve real organizational problems.**
+I am particularly interested in how technology, data, and information systems can be designed and deployed to solve real organizational problems.
 
----
+## 🤝 Connect
 
-## 🤝 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhushan-jagtap999/)
+- 💻 [GitHub](https://github.com/jagtapbhushan254-alt)
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/bhushan-jagtap999/)
-* 💻 [GitHub](https://github.com/jagtapbhushan254-alt)
-
----
-
-> *Building practical solutions where data, technology, and business meet.*
+> Building practical solutions where **data, technology, and business meet**.
